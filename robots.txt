@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://dischargeinjunction.org/sitemap.xml
+
+Sitemap: https://dischargeinjunction.org/sitemap.xml
